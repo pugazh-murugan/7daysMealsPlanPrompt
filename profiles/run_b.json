@@ -1,0 +1,19 @@
+{
+  "age": 45,
+  "sex": "Female",
+  "height_cm": 158,
+  "weight_kg": 70,
+  "activity_level": "Moderately active (home-maker, yoga 5 days a week)",
+  "activity_factor": 1.55,
+  "goal": "Gradual weight loss, about 0.25-0.5 kg per week",
+  "location": "Chennai (Tamil Nadu dishes preferred)",
+  "weekday_cooking_time": "45 minutes for lunch and dinner, 20 minutes for breakfast",
+  "household": "Cooking for 4 (two adults, two school-going children); the plan is for the adult woman, children eat the same meals with larger portions",
+  "diet_type": "Lacto-vegetarian, no onion or garlic on Mondays and Saturdays",
+  "allergies": "Peanut and all nuts (no groundnut oil or chutney either)",
+  "dislikes": "Cluster beans, ridge gourd",
+  "other_notes": "Eats lunch at home; needs a tiffin-box snack for the children",
+  "allergy_terms": ["peanut", "groundnut", "nut", "almond", "cashew", "walnut", "pistachio", "hazelnut", "kadalai mittai", "verkadalai", "pista", "badam"],
+  "dislike_terms": ["cluster bean", "gavar", "kothavarangai", "ridge gourd", "peerkangai", "heerekai"],
+  "no_onion_garlic_days": ["Monday", "Saturday"]
+}

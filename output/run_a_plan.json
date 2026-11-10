@@ -1,0 +1,177 @@
+{
+  "meals": [
+    {
+      "day": "Monday",
+      "meal": "Breakfast",
+      "dish": "Ragi dosa, pudina chutney",
+      "portion": "2 dosas, 2 tbsp"
+    },
+    {
+      "day": "Monday",
+      "meal": "Lunch",
+      "dish": "Brown rice, vegetable sambar, beans poriyal, curd",
+      "portion": "1 cup, 1 katori, 1/2 cup, 1/2 cup"
+    },
+    {
+      "day": "Monday",
+      "meal": "Snack",
+      "dish": "Green moong sundal",
+      "portion": "1 small bowl"
+    },
+    {
+      "day": "Monday",
+      "meal": "Dinner",
+      "dish": "Ragi roti, peas-carrot kurma, curd",
+      "portion": "2 rotis, 1 katori, 1/2 cup"
+    },
+    {
+      "day": "Tuesday",
+      "meal": "Breakfast",
+      "dish": "Idli, vegetable sambar",
+      "portion": "3 idlis, 1 katori"
+    },
+    {
+      "day": "Tuesday",
+      "meal": "Lunch",
+      "dish": "Little millet curd rice, carrot poriyal, cucumber salad",
+      "portion": "1 cup, 1/2 cup, 1 small bowl"
+    },
+    {
+      "day": "Tuesday",
+      "meal": "Snack",
+      "dish": "Roasted chana",
+      "portion": "1/4 cup"
+    },
+    {
+      "day": "Tuesday",
+      "meal": "Dinner",
+      "dish": "Plain dosa, vegetable sambar, tomato-coriander chutney",
+      "portion": "2 dosas, 1 katori, 2 tbsp"
+    },
+    {
+      "day": "Wednesday",
+      "meal": "Breakfast",
+      "dish": "Foxtail millet pongal, coconut chutney",
+      "portion": "1 cup, 2 tbsp"
+    },
+    {
+      "day": "Wednesday",
+      "meal": "Lunch",
+      "dish": "Red rice, keerai kootu, cabbage poriyal, buttermilk",
+      "portion": "1 cup, 1 katori, 1/2 cup, 1 glass"
+    },
+    {
+      "day": "Wednesday",
+      "meal": "Snack",
+      "dish": "Banana, spiced buttermilk",
+      "portion": "1 small banana, 1 glass"
+    },
+    {
+      "day": "Wednesday",
+      "meal": "Dinner",
+      "dish": "Little millet moong dal khichdi, cabbage poriyal, curd",
+      "portion": "1 cup, 1/2 cup, 1/2 cup"
+    },
+    {
+      "day": "Thursday",
+      "meal": "Breakfast",
+      "dish": "Moong dal cheela, mint chutney",
+      "portion": "2 cheelas, 2 tbsp"
+    },
+    {
+      "day": "Thursday",
+      "meal": "Lunch",
+      "dish": "Phulka, dal palak, cabbage-carrot salad",
+      "portion": "2 phulkas, 1 katori, 1 bowl"
+    },
+    {
+      "day": "Thursday",
+      "meal": "Snack",
+      "dish": "Ragi malt without sugar",
+      "portion": "1 glass"
+    },
+    {
+      "day": "Thursday",
+      "meal": "Dinner",
+      "dish": "Chapati, sprouted moong curry, cucumber raita",
+      "portion": "2 chapatis, 1 katori, 1/2 cup"
+    },
+    {
+      "day": "Friday",
+      "meal": "Breakfast",
+      "dish": "Ragi idli, tomato-coriander chutney",
+      "portion": "3 idlis, 2 tbsp"
+    },
+    {
+      "day": "Friday",
+      "meal": "Lunch",
+      "dish": "Parboiled rice, drumstick sambar, ladies finger poriyal, buttermilk",
+      "portion": "1 cup, 1 katori, 1/2 cup, 1 glass"
+    },
+    {
+      "day": "Friday",
+      "meal": "Snack",
+      "dish": "Kala chana sundal with a little coconut",
+      "portion": "1 small bowl"
+    },
+    {
+      "day": "Friday",
+      "meal": "Dinner",
+      "dish": "Moong dal vegetable soup, phulka, carrot-cucumber salad",
+      "portion": "1 bowl, 2 phulkas, 1 small bowl"
+    },
+    {
+      "day": "Saturday",
+      "meal": "Breakfast",
+      "dish": "Vegetable little millet upma",
+      "portion": "1 cup"
+    },
+    {
+      "day": "Saturday",
+      "meal": "Lunch",
+      "dish": "Kodo millet vegetable pulao, cucumber raita",
+      "portion": "1 cup, 1/2 cup"
+    },
+    {
+      "day": "Saturday",
+      "meal": "Snack",
+      "dish": "Papaya or guava cubes, buttermilk",
+      "portion": "1 small bowl, 1 glass"
+    },
+    {
+      "day": "Saturday",
+      "meal": "Dinner",
+      "dish": "Phulka, palak paneer, tomato-cucumber salad",
+      "portion": "2 phulkas, 1 katori, 1 small bowl"
+    },
+    {
+      "day": "Sunday",
+      "meal": "Breakfast",
+      "dish": "Broken wheat (godhi) rava upma with vegetables",
+      "portion": "1 cup"
+    },
+    {
+      "day": "Sunday",
+      "meal": "Lunch",
+      "dish": "Brown rice, moong dal, beetroot poriyal, curd",
+      "portion": "1 cup, 1 katori, 1/2 cup, 1/2 cup"
+    },
+    {
+      "day": "Sunday",
+      "meal": "Snack",
+      "dish": "Sprouts salad with lemon",
+      "portion": "1 small bowl"
+    },
+    {
+      "day": "Sunday",
+      "meal": "Dinner",
+      "dish": "Ragi idiyappam, vegetable kurma",
+      "portion": "3 idiyappam, 1 katori"
+    }
+  ],
+  "notes": [
+    "Estimated maintenance about 2,392 kcal/day; target about 1,892-2,092 kcal/day (not below 1,500).",
+    "Prep ahead on Sunday: cook dal, soak ragi/millets and batter, chop vegetables, and grind chutneys for 2-3 days.",
+    "This is a draft for discussion; review it with a qualified dietitian."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "age": 32,
+  "sex": "Male",
+  "height_cm": 172,
+  "weight_kg": 82,
+  "activity_level": "Lightly active (desk job, 20-minute walk daily)",
+  "activity_factor": 1.375,
+  "goal": "Gradual weight loss, about 0.25-0.5 kg per week",
+  "location": "Bangalore (Karnataka + Tamil Nadu dishes both welcome)",
+  "weekday_cooking_time": "30 minutes for lunch and dinner, 15 minutes for breakfast",
+  "household": "1 adult eating; weekend can have more time (up to 60 minutes)",
+  "diet_type": "Lacto-vegetarian (milk, curd, ghee, paneer OK; no egg, fish, meat, gelatin)",
+  "allergies": "None",
+  "dislikes": "Bitter gourd, brinjal",
+  "other_notes": "Carries lunch to office on weekdays (must stay good for 4-5 hours without reheating)",
+  "allergy_terms": [],
+  "dislike_terms": ["bitter gourd", "karela", "pavakkai", "hagalkai", "brinjal", "eggplant", "kathirikai", "badanekai"],
+  "no_onion_garlic_days": []
+}
